@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Shefali 👋
 
-<!--
-**shefali-walia/shefali-walia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS Student @ BITS Pilani Dubai | Building in Data Science & AI
 
-Here are some ideas to get you started:
+## 🔭 Currently
+- Completing **CS50P** — Harvard's Python course
+- Preparing for **GCI World 2026** at University of Tokyo (April 2026)
+- Building real projects and documenting the journey
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Learning
+Python · SQL · Data Science · Machine Learning · Git
+
+## 💡 Interested In
+Human-Centred AI · Explainable AI · Data Storytelling · Design + Tech
+
+## 🛠️ Projects
+- [Student Ledger](https://github.com/shefali-walia/Student_Planner) — Smart student planner with algorithmic task prioritisation, built with Python + Streamlit
+
+## 📫 Connect
+[LinkedIn](https://www.linkedin.com/in/shefali-walia)
