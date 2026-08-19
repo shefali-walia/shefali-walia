@@ -3,17 +3,14 @@
 CS Student @ BITS Pilani Dubai | Building in Data Science & AI
 
 ## Currently
-- Doing data science course **GCI World 2026** at University of Tokyo (April - July 2026)
-- Building real projects and documenting the journey
-
-## Learning
-Python · SQL · Data Science · Machine Learning · Git
+- Learning Data Analysis · Data Science · DSA · Python · C/C++ · SQL · Git
+- Completed **GCI World 2026** at University of Tokyo : built end-to-end ML pipelines covering data cleaning, supervised and unsupervised learning, feature engineering, ensemble models, and time series analysis on real-world datasets
 
 ## Interested In
-Human-Centred AI · Explainable AI · Data Storytelling · Design + Tech
+AI/ML Engineering
 
 ## Projects
-- [Student Ledger](https://github.com/shefali-walia/Student_Planner) — Smart student planner with algorithmic task prioritisation, built with Python + Streamlit
+- [Student Ledger](https://github.com/shefali-walia/Student_Planner) : Smart student planner with algorithmic task prioritisation, built with Python + Streamlit
 
 ## Connect
 [LinkedIn](https://www.linkedin.com/in/shefali-walia)
