@@ -23,7 +23,7 @@ Analyzed **29K+ city-level air-quality records from India (2015–2020)** and bu
 * Built regression models using **Linear Regression and Ridge Regression**
 * Built classification models using **Logistic Regression, Decision Trees, and k-NN**
 * Evaluated models using **R², MAE, precision, recall, F1-score, and ROC-AUC**
-* Achieved **89.2% classification accuracy** and **0.743 R²** on evaluated test sets
+* Achieved **89.7% classification accuracy** and **0.776 R²** on evaluated test sets
 
 ### [Student Ledger](https://github.com/shefali-walia/Student_Planner)
 
